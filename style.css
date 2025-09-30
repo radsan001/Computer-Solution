@@ -1,0 +1,10 @@
+/* Custom overrides */
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+h1, h2 {
+  font-weight: bold;
+}
+section {
+  scroll-margin-top: 80px; /* for smooth navbar link scroll */
+}
